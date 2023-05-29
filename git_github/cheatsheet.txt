@@ -1,0 +1,15 @@
+CHEATSHEET
+git init:  Crear un repositorio local
+git add .: agrega todos los archivos
+git status: seguimiento del estado de archivos
+git config user.name: agregar nuestra id de gitHub
+git config user.email: agrega nuestro email de gitHub
+git commit -m: comitea todos los cambios hechos
+git remote add origin:vincular el repo remoto
+git push origin main:Subir cambios del repo remoto
+git pull origin main: Bajar cambios del repo remoto
+git branch:crear ramas
+git clone: clonar un repo existente
+git checkout:navegar entre ramas
+git remote -v: ver repos remotos
+git log: ver historila repo
